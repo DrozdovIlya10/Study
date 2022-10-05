@@ -9,15 +9,15 @@ public class UserDaoJDBCImpl implements UserDao {
 
     }
 
-    public void createUsersTable() {
+    public void createUsersTable()  {
 
     }
 
-    public void dropUsersTable() {
+    public void dropUsersTable()  {
 
     }
 
-    public void saveUser(String name, String lastName, byte age) {
+    public void saveUser(String name, String lastName, byte age)  {
 
     }
 
